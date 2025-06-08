@@ -8,6 +8,7 @@ public class productExceptSelfTest {
         int[] nums = {-1,1,0,-3,3};
         int[] res = productExceptSelf(nums);
 
+
         System.out.println(Arrays.toString(res));
     }
 
